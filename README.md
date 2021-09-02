@@ -2,9 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/Hspharwinder/host-website-on-github/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-## webiste hosting step with github
+## Step webiste hosting with github
 ---------------------------------------
-
 1. click on github settings
 2. on setting page scroll down and find heading 'GitHub Pages'
 3. follow this -> Pages settings now has its own dedicated tab! Check it out here!
